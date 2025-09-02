@@ -11,6 +11,11 @@ Complementary-Outfit-Recommender/<br>
 ├── shirt.ipynb<br>
 └── README.md<br>
 <br>
+<img width="1921" height="28800" alt="screencapture-localhost-8888-notebooks-Outfit-Recommendation-Siamese-ipynb-2025-09-02-21_34_48" src="https://github.com/user-attachments/assets/b599f480-0366-47d0-abc7-99ae1f5e969b" />
+
+
+
+
 ![Screenshot 2025-03-18 013934](https://github.com/user-attachments/assets/b5e73a0f-c0a5-4ede-b7ab-2bea742a9570)
 ![Screenshot 2025-03-18 013405](https://github.com/user-attachments/assets/4e8a8651-67ec-482c-8fe5-8c5acae8260b)
 ![Screenshot 2025-03-18 013214](https://github.com/user-attachments/assets/50668a42-2eb7-4e62-9599-962df917589b)
