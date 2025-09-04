@@ -1,5 +1,7 @@
 # CNN-Based-Complementary-Fashion-Outfit-Recommendation-System
 The system takes a query image (e.g., a shirt) as input and retrieves visually similar items along with their complementary outfits (e.g., pants, shoes, and accessories) from a dataset by leveraging the power of CNNs.
+<img width="1110" height="632" alt="image" src="https://github.com/user-attachments/assets/2b2456b6-5f6e-4851-a2a8-b9d50afd0118" />
+
 Complementary-Outfit-Recommender/<br>
 ├── dataset/<br>
 │   ├── 100002074/<br>
